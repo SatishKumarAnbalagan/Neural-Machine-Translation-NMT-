@@ -1,0 +1,2 @@
+# Neural-Machine-Translation-NMT-
+Implementation of neural machine translation (NMT) using Recurrent Neural Network (RNN) choosing either Long Short-Term Memory (LSTM) or Gated Recurrent Units (GRU). Trained &amp; tested using Stanford University’s NLP pre processed WMT ’15, WMT'14, IWSLT'15 datasets. The English-Vietnamese English-Czech and English-German datasets can be found at: https://nlp.stanford.edu/projects/nmt/ under Preprocessed Data.
